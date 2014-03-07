@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[tim.mw]]></title>
+  <link href="http://tim.mw/blog/atom.xml" rel="self"/>
+  <link href="http://tim.mw/blog/"/>
+  <updated>2014-03-07T21:25:52+00:00</updated>
+  <id>http://tim.mw/blog/</id>
+  <author>
+    <name><![CDATA[Tim Miller-Williams]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
